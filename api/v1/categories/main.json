@@ -1,0 +1,47 @@
+[
+  {
+    "id": "clothing",
+    "name": "의류",
+    "image": "assets/images/icons/3d/shirt.png"
+  },
+  {
+    "id": "beauty",
+    "name": "화장품",
+    "image": "assets/images/icons/3d/lipstick.png"
+  },
+  {
+    "id": "food",
+    "name": "식품",
+    "image": "assets/images/icons/3d/apple.png"
+  },
+  {
+    "id": "household",
+    "name": "생활용품",
+    "image": "assets/images/icons/3d/toilet-paper.png"
+  },
+  {
+    "id": "furniture",
+    "name": "가구",
+    "image": "assets/images/icons/3d/chair.png"
+  },
+  {
+    "id": "electronic",
+    "name": "가전",
+    "image": "assets/images/icons/3d/monitor.png"
+  },
+  {
+    "id": "baby",
+    "name": "유아용품",
+    "image": "assets/images/icons/3d/teddy_bear.png"
+  },
+  {
+    "id": "sports",
+    "name": "스포츠",
+    "image": "assets/images/icons/3d/shoes.png"
+  },
+  {
+    "id": "book",
+    "name": "도서",
+    "image": "assets/images/icons/3d/book.png"
+  }
+]

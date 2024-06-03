@@ -1,0 +1,252 @@
+[
+  {
+    "mainId": "clothing",
+    "id": "man",
+    "name": "남성 의류"
+  },
+  {
+    "mainId": "clothing",
+    "id": "woman",
+    "name": "여성 의류"
+  },
+  {
+    "mainId": "clothing",
+    "id": "underwear",
+    "name": "내의류"
+  },
+  {
+    "mainId": "clothing",
+    "id": "shoes",
+    "name": "신발"
+  },
+  {
+    "mainId": "beauty",
+    "id": "cosmetic",
+    "name": "화장품"
+  },
+  {
+    "mainId": "beauty",
+    "id": "perfume",
+    "name": "향수"
+  },
+  {
+    "mainId": "food",
+    "id": "fruit",
+    "name": "과일"
+  },
+  {
+    "mainId": "food",
+    "id": "vegetable",
+    "name": "채소"
+  },
+  {
+    "mainId": "food",
+    "id": "grain",
+    "name": "쌀/곡물"
+  },
+  {
+    "mainId": "food",
+    "id": "livestock",
+    "name": "축산"
+  },
+  {
+    "mainId": "food",
+    "id": "drink",
+    "name": "음료"
+  },
+  {
+    "mainId": "food",
+    "id": "dairy",
+    "name": "유제품"
+  },
+  {
+    "mainId": "food",
+    "id": "processed",
+    "name": "가공식품"
+  },
+  {
+    "mainId": "food",
+    "id": "health",
+    "name": "건강식품"
+  },
+  {
+    "mainId": "household",
+    "id": "tissue",
+    "name": "화장지"
+  },
+  {
+    "mainId": "household",
+    "id": "shower",
+    "name": "샤워"
+  },
+  {
+    "mainId": "household",
+    "id": "wash",
+    "name": "세면"
+  },
+  {
+    "mainId": "household",
+    "id": "kitchen",
+    "name": "주방"
+  },
+  {
+    "mainId": "household",
+    "id": "laundry",
+    "name": "세탁"
+  },
+  {
+    "mainId": "household",
+    "id": "cleaning",
+    "name": "청소"
+  },
+  {
+    "mainId": "household",
+    "id": "sanitary-pad",
+    "name": "생리대"
+  },
+  {
+    "mainId": "furniture",
+    "id": "living",
+    "name": "거실"
+  },
+  {
+    "mainId": "furniture",
+    "id": "bed",
+    "name": "침실"
+  },
+  {
+    "mainId": "furniture",
+    "id": "kitchen",
+    "name": "주방"
+  },
+  {
+    "mainId": "furniture",
+    "id": "office",
+    "name": "사무"
+  },
+  {
+    "mainId": "furniture",
+    "id": "outdoor",
+    "name": "야외"
+  },
+  {
+    "mainId": "electronic",
+    "id": "tv",
+    "name": "텔레비전"
+  },
+  {
+    "mainId": "electronic",
+    "id": "fridge",
+    "name": "냉장고"
+  },
+  {
+    "mainId": "electronic",
+    "id": "washing",
+    "name": "세탁기"
+  },
+  {
+    "mainId": "electronic",
+    "id": "computer",
+    "name": "컴퓨터"
+  },
+  {
+    "mainId": "electronic",
+    "id": "cellphone",
+    "name": "휴대폰"
+  },
+  {
+    "mainId": "electronic",
+    "id": "tablet",
+    "name": "태플릿"
+  },
+  {
+    "mainId": "baby",
+    "id": "diaper",
+    "name": "기저귀"
+  },
+  {
+    "mainId": "baby",
+    "id": "formula",
+    "name": "분유"
+  },
+  {
+    "mainId": "baby",
+    "id": "toy",
+    "name": "장난감"
+  },
+  {
+    "mainId": "sports",
+    "id": "shoes",
+    "name": "신발"
+  },
+  {
+    "mainId": "sports",
+    "id": "accessories",
+    "name": "잡화"
+  },
+  {
+    "mainId": "sports",
+    "id": "gym",
+    "name": "헬스"
+  },
+  {
+    "mainId": "sports",
+    "id": "camping",
+    "name": "캠핑"
+  },
+  {
+    "mainId": "sports",
+    "id": "climbing",
+    "name": "등산"
+  },
+  {
+    "mainId": "sports",
+    "id": "swimming",
+    "name": "수영"
+  },
+  {
+    "mainId": "book",
+    "id": "novel",
+    "name": "소설"
+  },
+  {
+    "mainId": "book",
+    "id": "comic",
+    "name": "만화"
+  },
+  {
+    "mainId": "book",
+    "id": "textbook",
+    "name": "교재"
+  },
+  {
+    "mainId": "book",
+    "id": "study",
+    "name": "참고서"
+  },
+  {
+    "mainId": "book",
+    "id": "history",
+    "name": "역사"
+  },
+  {
+    "mainId": "book",
+    "id": "art",
+    "name": "예술"
+  },
+  {
+    "mainId": "book",
+    "id": "humanities",
+    "name": "인문"
+  },
+  {
+    "mainId": "book",
+    "id": "science",
+    "name": "과학"
+  },
+  {
+    "mainId": "book",
+    "id": "magazine",
+    "name": "잡지"
+  }
+]
